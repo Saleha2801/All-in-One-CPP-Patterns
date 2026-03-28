@@ -233,6 +233,7 @@ void Triangle_15(int row){
 }
 int main(){
     cout<<"Name: Saleha Shaikh";
+    cout<<"\n\t\t\tDifferent Shapes";
     int row;
     cin>>row;
     Square_1(row);
